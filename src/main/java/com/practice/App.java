@@ -1,7 +1,7 @@
 package com.practice;
 import java.util.Scanner;
 import com.practice.Repository.UserRepository;
-//import com.practice.Utility.HibernateUtility;
+//main class
 public class App 
 {
     public static void main( String[] args )
