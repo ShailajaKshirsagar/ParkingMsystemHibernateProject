@@ -3,7 +3,7 @@ package com.practice.Entity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+//Entity class added
 @Entity
 @Table(name = "resident_parking")
 public class UserDetails {
