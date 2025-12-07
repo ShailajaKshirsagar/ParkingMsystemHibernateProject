@@ -1,5 +1,5 @@
 package com.practice.Utility;
-//This is singleton pattern
+//This is singleton pattern added
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
