@@ -7,6 +7,7 @@ import org.hibernate.Transaction;
 import com.practice.Entity.UserDetails;
 import com.practice.Utility.HibernateUtility;
 
+//repo added
 public class UserRepository {
 	
 	//Create / insert data 
